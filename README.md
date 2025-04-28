@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Tusher!<br><br>## 🔥 About Me<br>- 💻 I’m a passionate Front-end Developer<br>- 🎯 Goal: Get an internship in Jan 2026<br>- 🌱 Currently learning: AI, React, Node.js<br><br>## 🛠️ Skills<br>- Frontend: React, TailwindCSS<br>- AI: Python(basics)<br><br>## 📫 How to reach me<br>- Email:khsaminrashid@gmail.com
+# Hi there 👋, I'm Tusher!<br><br>## 🔥 About Me<br>- 💻 I’m a passionate Front-end Developer<br>- 🎯 Goal: Become a Full-Stack Developer<br>- 🌱 Currently learning: AI, React, Node.js<br><br>## 🛠️ Skills<br>- Frontend: React, TailwindCSS<br>- AI: Python(basics)<br><br>## 📫 How to reach me<br>- Email:khsaminrashid@gmail.com
 
 
 # 💻 Tech Stack:
